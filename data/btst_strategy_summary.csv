@@ -1,0 +1,5 @@
+Rule,Trades,Win Rate %,Avg Net %,Total Return%,Profit Factor,Max Drawdown%
+Rule 1 - Reliable Bull,836,65.3,0.1045,137.29,1.96,-6.65
+Rule 2 - Gap Down Bounce,114,65.8,0.1398,16.07,1.36,-15.35
+Rule 3 - Early Week Edge,696,62.6,0.0869,81.14,1.62,-5.61
+Rule 4 - Combined Best,512,66.8,0.094,61.06,1.94,-6.12
