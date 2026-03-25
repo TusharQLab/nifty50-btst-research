@@ -1,0 +1,11 @@
+Ticker,Rule,Trades,Win Rate %,Avg Net %,Total Return %,Profit Factor,Max Drawdown %
+ADANIPORTS.NS,Rule1_ReliableBull,955,68.2,0.1904,493.85,2.1,-10.05
+BPCL.NS,Rule1_ReliableBull,802,66.0,0.2253,490.24,2.34,-8.18
+CIPLA.NS,Rule1_ReliableBull,784,65.2,0.2201,447.88,2.97,-5.93
+TATACONSUM.NS,Rule1_ReliableBull,869,64.9,0.1939,426.55,2.41,-5.91
+ADANIENT.NS,Rule1_ReliableBull,819,65.8,0.1913,360.97,2.01,-11.28
+APOLLOHOSP.NS,Rule1_ReliableBull,816,62.0,0.167,282.94,2.15,-7.31
+BAJFINANCE.NS,Rule1_ReliableBull,863,62.9,0.1542,267.48,1.81,-12.1
+COALINDIA.NS,Rule1_ReliableBull,660,62.3,0.1973,261.79,2.46,-10.05
+TATASTEEL.NS,Rule1_ReliableBull,721,63.1,0.1799,257.57,1.98,-10.19
+DIVISLAB.NS,Rule1_ReliableBull,805,60.6,0.1582,245.67,2.03,-14.04
